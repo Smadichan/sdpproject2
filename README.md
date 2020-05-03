@@ -1,6 +1,6 @@
 This project is maintained by Danara Smadiyarova and Ruzana Aishuakova from group CSSE-1702.
 
-In our project we are working on creating a fictional restaraunt where clientы haму an opportunity to reserve a table and pre-submit their order.
+In our project we are working on creating a fictional restaraunt where clients have an opportunity to reserve a table and pre-submit their order.
 
 We have 5 models with all possible DB relationships. They are:
 
